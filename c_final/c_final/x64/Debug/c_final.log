@@ -1,5 +1,2 @@
 ﻿  test.c
-C:\Users\18011\Desktop\git\cpp\c_final\c_final\test.c(138,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-C:\Users\18011\Desktop\git\cpp\c_final\c_final\test.c(140,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-C:\Users\18011\Desktop\git\cpp\c_final\c_final\test.c(142,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-  c_final.vcxproj -> C:\Users\18011\Desktop\git\cpp\c_final\x64\Debug\c_final.exe
+  c_final.vcxproj -> C:\Users\18011\Desktop\git\cpp_code\c_final\x64\Debug\c_final.exe
